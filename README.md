@@ -22,7 +22,7 @@ Share photos
 
 Share Videos
 
-Send friend request
+Send friend request # working on it
       ++
 # Admin of the site should have control over:
 
@@ -39,7 +39,7 @@ Inserting, viewing, updating, deleting the data in the database.
 
 Post module: All the functionalities related to posts will be in this module.
 
-Friends module: Manages operations related to friends.
+Friends module: Manages operations related to friends. # workig on it
 
 Photos module: Manages the upload, sharing, deleting of photos.
 
@@ -55,7 +55,7 @@ Front-end: HTML,CSS, Bootstrap
 
 Back-end: Mysql, Django, Python, Javascript.
 
-Software requirements: Text editor and Python3.
+Software requirements: Ide and Python3.
 
-Programming  Languages: Python, Javascript, django
+
 

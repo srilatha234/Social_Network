@@ -23,7 +23,7 @@ Share photos
 Share Videos
 
 Send friend request # working on it
-      ++
+     
 # Admin of the site should have control over:
 
 
